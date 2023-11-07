@@ -7,12 +7,46 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayavelrajan&label=Profile%20views&color=0e75b6&style=flat" alt="jayavelrajan" /> </p>
 
+
+
 <p align="center">
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/jayavelrajan/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://instagram.com/jayavel_rajan">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.behance.net/jayavel_rajan">
+        <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://jvr.hashnode.dev/">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://twitter.com/mjayavelrajan">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
   <a href="https://twitter.com/mjayavelrajan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="60" />
   </a>
   <a href="https://linkedin.com/in/jayavelrajan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavelrajan" height="30" width="60" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jayavelrajan" height="30" width="60" />
   </a>
   <a href="https://instagram.com/jayavel_rajan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayavel_rajan" height="30" width="60" />
@@ -24,6 +58,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jayavelrajan" height="30" width="60" />
   </a>
 </p>
+-->
 
 
 ### Professional Profile: :star:
@@ -80,7 +115,14 @@
 
  
 <h3 align="left">Connect with me 🤝</h3>
-<p align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavelrajan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jayavel_rajan)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jayavel_rajan)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://jvr.hashnode.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mjayavelrajan)
+
+<!-- <p align="left">
   <a href="https://twitter.com/mjayavelrajan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="60" />
   </a>
@@ -96,7 +138,7 @@
   <a href="https://hashnode.com/jayavelrajan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jayavelrajan" height="30" width="60" />
   </a>
-</p>
+</p> -->
 
 
 
