@@ -220,11 +220,12 @@ IDEs : <br>
 <h3 align="left">Github Stats 📊 </h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayavelrajan&layout=compact)](https://github.com/jayavelrajan)
-<br>
-[![Jayavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayavelrajan&show_icons=true)](https://github.com/jayavelrajan)
-<br>
-
+<p align="center">
+<a href="https://github.com/jayavelrajan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 <!--
 [![jayavel's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jayavelrajan&)](https://github.com/jayavelrajan)
 -->
