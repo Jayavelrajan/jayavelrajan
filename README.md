@@ -26,7 +26,7 @@
     <td align="center" width="20%">
       <a href="https://www.behance.net/jayavel_rajan">
         <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
-      </a>
+      </a> 
     </td>
     <td align="center" width="20%">
       <a href="https://jvr.hashnode.dev/">
