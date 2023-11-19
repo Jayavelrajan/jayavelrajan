@@ -79,7 +79,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jayavelrajan/) / [Twitter](https://twitter.com/mjayavelrajan) / [Instagram](https://www.instagram.com/jayavel_rajan/)
 
-- ⚡ Fun fact: I successfully completed **Keshart's 100 days of drawing challenge** without missing a single day😎 Check it out [here](https://www.instagram.com/stories/highlights/17983797086218930/)😉
+- ⚡ Fun fact: I successfully completed **Keshart's 100 days of drawing challenge** without missing a single day😎. Check it out [here](https://www.instagram.com/stories/highlights/17983797086218930/)😉
 
 -----------------------------------------------------
  
