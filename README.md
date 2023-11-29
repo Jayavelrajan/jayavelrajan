@@ -86,6 +86,8 @@
 
 <h3 align="left">My Certifications 📜 </h3>
 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bbe69a48-e09c-4e27-bf19-cea5d9a2d5f9/public_url) - by **Amazon Web Services**
+
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/834888a2-739c-460d-8109-ba8d20cc6ff9/public_url) - by **Google**
 
 - [Google Analytics for Beginners](https://drive.google.com/file/d/1tn2JZsB44o7lIazrjKnNOSfyWLZPmi9b/view) - by **Google**
