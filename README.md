@@ -104,7 +104,7 @@
 
 - [Diploma in Computer Application (DCA)](https://drive.google.com/file/d/1U4gduyw8a6IQlSnMjB8l-mgtPOZbxniQ/view) - by **CSC Chennai**
 
-------------------------------------------------------
+-------------------------------------------------------
 
 <h3 align="left">Wanna see my Blogs? 📝</h3>
 
