@@ -81,7 +81,7 @@
 
 - ⚡ Fun fact: I successfully completed **Keshart's 100 days of drawing challenge** without missing a single day😎. Check it out [here](https://www.instagram.com/stories/highlights/17983797086218930/)😉
 
----------------------------------------------------------
+--------------------------------------------------------
  
 
 <h3 align="left">My Certifications 📜 </h3>
