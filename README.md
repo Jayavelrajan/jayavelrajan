@@ -63,7 +63,7 @@
 
 ### Professional Profile: :star:
 
-- 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/jayavelrajan/)
+- 👨‍💻 All about me is at [My LinkedIn](https://marketplace.visualstudio.com/items?itemName=jayavelrajan.infinitus-dark)
 
 - 🔭 I’m currently working on ETL testing, Data Analytics & Python 
 
