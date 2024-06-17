@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Jayavelrajan/jayavelrajan/blob/main/Banner/githubbanner.gif)](https://bio.link/jayavelr)
 
  <br>
-<h2 align="center">A Self-taught Data Science Enthusiast From India </h2>
+<h2 align="center">Junior DevOps Engineer | Cloud Solutions Architect </h2>
 
 
 
