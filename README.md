@@ -86,23 +86,13 @@
 
 <h3 align="left">My Certifications 📜 </h3>
 
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/12c30768-777f-45b4-b5d3-716403f81c8f/public_url) - by **Amazon Web Services**
+
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bbe69a48-e09c-4e27-bf19-cea5d9a2d5f9/public_url) - by **Amazon Web Services**
 
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/834888a2-739c-460d-8109-ba8d20cc6ff9/public_url) - by **Google**
 
 - [Google Analytics for Beginners](https://drive.google.com/file/d/1tn2JZsB44o7lIazrjKnNOSfyWLZPmi9b/view) - by **Google**
-
-- [The Fundamentals of Digital marketing](https://drive.google.com/file/d/1sF7kNDsshkF1zbcETC6wW1iwJZx4YzLZ/view) - by **Google Digital Garage**
-  
-- [Introduction to Artificial Intelligence](https://certificates.mooc.fi/validate/4bim9iq3aoe) - by **University of Helsinki**
-
-- [Introduction to Serverless Development](https://drive.google.com/file/d/1gc0dqKlahq_QxYwowda7mu7A5Ys1IzUL/view) - by **Amazon Web Services**
-
-- [AR Open Program](https://drive.google.com/file/d/1ODJrxMruDiK_K5jf_3XGeTNsl0O-5xy4/view) - by **School of Innovation India from Facebook**
-
-- [Degree of Rashtrabhasha Praveen](https://drive.google.com/file/d/1k2tr4XLPZWlRRGQxaRulntTFw8dGam4N/view) - by **Dakshina Bharat Hindi Prachar Sabha**
-
-- [Diploma in Computer Application (DCA)](https://drive.google.com/file/d/1U4gduyw8a6IQlSnMjB8l-mgtPOZbxniQ/view) - by **CSC Chennai**
 
 --------------------------------------------------------
 
