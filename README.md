@@ -65,9 +65,7 @@
 
 - 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/jayavelrajan/)
 
-- 🔭 I’m currently working on ETL testing, Data Analytics & Python 
-
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
+- 🛩️ Exploring Cloud Computing, CI/CD Pipelines, Containerization, and Infrastructure as Code 
 
 - 📝 Sometimes I write articles on [Hashnode](https://jvr.hashnode.dev/)
 
